@@ -300,7 +300,7 @@ nav ul li a:hover::after{
 .contact-right form{
     margin-left: 150%;
     margin-top: -50%;
-    background-color: #080808;
+    background-color: none;
     width: 100%;
 }
 form input, form textarea{
